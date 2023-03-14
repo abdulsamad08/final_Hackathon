@@ -1,6 +1,9 @@
 # squip_app
 
 A new Flutter project.
+# Output
+
+https://user-images.githubusercontent.com/116899821/225001833-2ad5eeea-7df2-4490-9179-e6ba69561c43.mp4
 
 ## Getting Started
 
